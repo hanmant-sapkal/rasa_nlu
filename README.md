@@ -129,7 +129,7 @@ You pull request will be reviewed by a maintainer, who might get back to you abo
 ### Advanced Python
 From github:
 ```
-git clone git@github.com:RasaHQ/rasa_nlu.git
+git clone https://github.com/RasaHQ/rasa_nlu.git
 cd rasa_nlu
 pip install -r requirements.txt
 ```
